@@ -5,7 +5,7 @@ android {
     compileSdkVersion compileSdk
 
     defaultConfig {
-        applicationId "com.firebase.uidemo"
+        applicationId "com.codebaum.firebase.uidemo"
         minSdkVersion 16
         targetSdkVersion targetSdk
         versionCode 1
